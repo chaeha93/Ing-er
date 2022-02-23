@@ -53,7 +53,7 @@
 
 ### :two: 공부방
 
-![category](md-images/category.gif){: width="100%"}
+![category](md-images/category.gif)
 
 > 필요에 따라 방을 만들거나, 마음에 드는 방을 찾는 번거로움을 없앴습니다.
 >
