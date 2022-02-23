@@ -155,7 +155,7 @@
 - :house_with_garden: __Common__
 
   - Co-work
-    - <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white">
+    - <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white">
 
 
 
